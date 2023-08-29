@@ -1,2 +1,2 @@
-# AppMutiplicadordeNumeros
-![PRINT!](calculardoraM.png).
+# AppMultiplicadordeNumeros
+![PRINT!](Multiplicador.png).
